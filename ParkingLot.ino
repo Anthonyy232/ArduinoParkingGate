@@ -12,8 +12,8 @@ const int D5 = 11;
 const int D6 = 12;
 const int D7 = 13;
  
-//LCD Display
-/* The circuit:
+/*LCD Display
+ * The circuit:
  * RS -> digital pin
  * E -> digital pin
  * D4 -> digital pin
